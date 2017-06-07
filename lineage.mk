@@ -26,7 +26,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 	PRIVATE_BUILD_DESC="htc_primou-$(TARGET_BUILD_VARIANT) $(PLATFORM_VERSION) $(BUILD_ID) $(shell date +%Y%m%d%H%M%S) test-keys"
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_primou
+PRODUCT_NAME := lineage_primou
 PRODUCT_GMS_CLIENTID_BASE := android-htc-rev
 
 # Release name
